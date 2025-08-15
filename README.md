@@ -14,7 +14,7 @@ The following **required** functionality is completed:
 - [x] Tapping the button changes the screen color to a random color
  
 ## Video Walkthrough
-![Activiicties for fun :D](ScreenRecording2025-08-14at7.58.49PM-ezgif.com-video-to-gif-converter)
+![Activiicties for fun :D](name)
 
 Here is a reminder on how to embed Loom videos on GitHub. Feel free to remove this reminder once you upload your README. 
 
